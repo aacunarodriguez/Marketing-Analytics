@@ -1,4 +1,4 @@
-# Marketing_project
+# Marketing Analytics Project
 
 | Name           | Surname                                          |
 |----------------|---------------------------------------------------------------|
